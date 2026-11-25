@@ -62,4 +62,12 @@ Full-stack AI system giving personalized workout and nutrition guidance.
 `Python` `FastAPI` `React` `SQLite`
 
 ### AI Social Media Auto Agent
-n8n workflow that detects trending topics, generates captions and images with LLMs, and
+n8n workflow that detects trending topics, generates captions and images with LLMs, and publishes to Facebook and Pinterest on a schedule.
+`n8n` `Mistral` `OpenRouter` `Webhooks`
+
+### Sentiment Analysis System (NLP)
+NLP pipeline that classifies text as positive, negative or neutral.
+`Python` `scikit-learn` `NLTK`
+
+## Tools I use
+Cursor · Claude · ChatGPT · Git · Vercel
